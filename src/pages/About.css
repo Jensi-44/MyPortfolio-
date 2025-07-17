@@ -1,0 +1,91 @@
+
+.about-section {
+  background: #0d0d0d;
+  color: #fff;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 3rem;
+}
+
+.section-title span {
+  background: linear-gradient(to right, #a855f7, #f59e0b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3rem;
+  max-width: 1200px;
+  margin: auto;
+  align-items: center;
+}
+
+.about-image img {
+  width: 250px;
+  height: auto;
+  border-radius: 1rem;
+  border: 3px solid #f59e0b;
+}
+
+.about-content {
+  max-width: 600px;
+  text-align: left;
+}
+
+.about-content p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.skills {
+  margin-top: 2rem;
+}
+
+.skill {
+  margin-bottom: 1rem;
+}
+
+.skill span {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-weight: 500;
+}
+
+.bar {
+  height: 10px;
+  border-radius: 5px;
+  background: linear-gradient(to right, #a855f7, #f59e0b);
+}
+
+.html { width: 95%; }
+.react { width: 90%; }
+.js { width: 85%; }
+.flutter { width: 80%; }
+
+.about-stats {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+  margin-top: 3rem;
+  flex-wrap: wrap;
+}
+
+.stat h3 {
+  font-size: 2rem;
+  background: linear-gradient(to right, #a855f7, #f59e0b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.stat p {
+  margin-top: 0.5rem;
+  color: #cfcfcf;
+}
