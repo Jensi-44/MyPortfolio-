@@ -10,7 +10,7 @@ const Hero = () => {
         <img src={profileImg} alt="Profile" className="hero-img" />
         <h1 className="hero-title">
           I'm <span className="purple">Jensi</span> <span className="orange">Kachhadiya</span>,<br />
-          Web & App Development  <span className="white">India</span>.
+          Web & App Developer In  <span className="white">India</span>.
         </h1>
         <p className="hero-subtext">
           I'm skilled in MERN, Firebase, and Flutter, currently studying Computer Engineering.
