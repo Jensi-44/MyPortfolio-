@@ -43,8 +43,8 @@ const Contact = () => {
           <p className="contact-intro">
             I'm currently available to take on new projects, so feel free to send me a message about anything you'd like to work on.
           </p>
-          <div className="contact-line"><i className="fas fa-envelope"></i><span>jensikachhadiya09@gmail.com</span></div>
-          <div className="contact-line"><i className="fas fa-phone-alt"></i><span>+91 97149 84003</span></div>
+          <div className="contact-line"><i className="fas fa-envelope"></i><span>jensikachhadiy4@gmail.com</span></div>
+          <div className="contact-line"><i className="fas fa-phone-alt"></i><span>+91 96620 75534</span></div>
           <div className="contact-line"><i className="fas fa-map-marker-alt"></i><span>Gujarat, India</span></div>
         </div>
 
